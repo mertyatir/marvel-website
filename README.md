@@ -1,5 +1,13 @@
 # marvel-website
 
+enter your private_key to src/marvel.js
+
+Frameworks/libraries used:
+Vue.js
+Vuex
+Vue router
+Axios
+
 ## Project setup
 ```
 npm install
