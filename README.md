@@ -1,5 +1,7 @@
 # marvel-website
 
+built with marvel API: https://developer.marvel.com/
+
 enter your private_key to src/marvel.js
 
 Frameworks/libraries used:
